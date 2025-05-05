@@ -2,7 +2,7 @@
 /**
  * This is a subclass of Staffhire for part time staff
  *
- * @author (24006405)
+ * @author (24006403)
  * @version (1.0.0)
  */
 public class PartTimeStaffHire extends Staffhire

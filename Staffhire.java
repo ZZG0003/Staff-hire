@@ -2,7 +2,7 @@
 /**
  * This is a superclass to store the common information of its subclasses FullTimeStaffHire and PartTimeStaffHire
  *
- * @author (24006405)
+ * @author (24006403)
  * @version (1.0.0)
  */
 public class Staffhire

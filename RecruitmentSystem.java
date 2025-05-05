@@ -2,7 +2,7 @@
 /**
  * This is the main class that creates the GUI, takes inputs, displays outputs, and preforms all other operations using buttons
  *
- * @author (24006405)
+ * @author (24006403)
  * @version (1.0.0)
  */
 import java.awt.*;
